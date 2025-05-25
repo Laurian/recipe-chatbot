@@ -4,3 +4,5 @@ litellm
 python-dotenv
 httpx
 rich
+mirascope
+pydantic
